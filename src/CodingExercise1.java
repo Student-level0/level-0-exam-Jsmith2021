@@ -25,13 +25,13 @@ jessica.setPenWidth(10);
    	 // 1. make the Robot draw a shape
     	
     	jessica.penDown();
-    	jessica.move(50);
+    	jessica.move(100);
     	jessica.turn(90);
-    	jessica.move(50);
+    	jessica.move(100);
     	jessica.turn(90);
-    	jessica.move(50);
+    	jessica.move(100);
     	jessica.turn(90);
-    	jessica.move(50);
+    	jessica.move(100);
     	jessica.turn(90);
     }
 
